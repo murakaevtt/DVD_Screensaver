@@ -2,6 +2,7 @@
 # A regular fullscreen screensaver made with pygame. There's nothing more to say.
 
 To run a program, only download 'screensaver.exe' from releases, and run it)
+Press escape to exit the program.
 
 Launch from source ----------------------
 
