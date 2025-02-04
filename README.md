@@ -6,13 +6,13 @@ To run a program, only download 'screensaver.exe' from releases, and run it)
 Launch from source ----------------------
 
 **Windows:**
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-python main.py
+1. python -m venv .venv
+2. .venv\Scripts\activate
+3. pip install -r requirements.txt
+4. python main.py
 
 **Linux/Mac:**
-python -m venv .venv
-.venv\bin\activate
-pip install -r requirements.txt
-python main.py
+1. python -m venv .venv
+2. .venv\bin\activate
+3. pip install -r requirements.txt
+4. python main.py
