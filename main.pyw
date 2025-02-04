@@ -26,7 +26,6 @@ FPS = 30
 # icon
 dvd_icon_surface = pygame.image.load('images/dvd.png')
 
-
 # Coordinates
 dvd_x_pos = random.randint(0, WIDTH - dvd_icon_surface.get_width())
 dvd_y_pos = random.randint(0, HEIGHT - dvd_icon_surface.get_height())
@@ -67,4 +66,3 @@ while True:
   # Render
   pygame.display.update()
   clock.tick(FPS)
-   
