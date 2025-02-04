@@ -1,7 +1,8 @@
 ![image](https://github.com/user-attachments/assets/1ab4e308-8ce0-4eb7-afa5-8bf110645294)
 # A regular fullscreen screensaver made with pygame. There's nothing more to say.
 
-To run a program, only download 'screensaver.exe' from releases, and run it)
+To run a program, only download 'screensaver.exe' from releases, and run it.
+Press escape to exit the program.
 
 Launch from source ----------------------
 
